@@ -55,8 +55,4 @@ Imagens
 
 Contribuições
 Se você quiser contribuir para o projeto, sinta-se à vontade para fazer um fork e abrir pull requests. Agradecemos qualquer contribuição!
-# Autores
 
-<img src="./img/ia.png" alt="Jogo em funcionamento" width="100" />
-
-* [Pessoas Contribuidoras](#mariah-1)
